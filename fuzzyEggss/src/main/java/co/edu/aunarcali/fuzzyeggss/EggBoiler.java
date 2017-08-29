@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+An Egg-Boiling Fuzzy Logic Robot implementation on java.
+based on: https://www.youtube.com/watch?v=J_Q5X0nTmrA
+designed and coded by: Juan Manuel Álvarez.
+Corporación universitaria Autónoma de Nariño
  */
 package co.edu.aunarcali.fuzzyeggss;
 

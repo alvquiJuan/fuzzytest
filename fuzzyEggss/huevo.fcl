@@ -9,7 +9,7 @@ VAR_OUTPUT				// Define output variable
 END_VAR
 
 FUZZIFY tamano			// Fuzzify input variable 'tamano': {'pequeno', 'grande' }
-	TERM pequeno := (50, 1) (70, 0) ; 
+	TERM pequeno := (40, 1) (70, 0) ; 
 	TERM grande := (50,0) (70,1);
 END_FUZZIFY
 

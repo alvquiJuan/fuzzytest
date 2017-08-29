@@ -13,7 +13,7 @@ public class Egg {
     private double tamano;
 
     public Egg() {
-        new Egg(50);
+        this.tamano = 40.0;
     }
 
     public Egg(double tamano) {
@@ -25,8 +25,8 @@ public class Egg {
     }
 
     public void setTamano(double tamano) {
-        if (tamano<50.0){   
-            tamano=50;
+        if (tamano<40.0){   
+            tamano=40.0;
         }
         else if (tamano>70.0){
             tamano=70;
